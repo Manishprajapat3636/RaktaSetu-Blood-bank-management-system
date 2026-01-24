@@ -25,3 +25,11 @@ Authentication: JWT / Session-based Auth
 # Purpose
 
 RaktaSetu aims to create a reliable digital platform that improves blood accessibility, reduces response time in critical situations, and supports healthcare services by connecting donors with those in need efficiently.
+# ScreenShots
+![Education Section Screenshot](ScreenShots/Home.png)
+![Education Section Screenshot](ScreenShots/Login.png)
+![Education Section Screenshot](ScreenShots/Sign In.png)
+![Education Section Screenshot](ScreenShots/Feedback.png)
+![Education Section Screenshot](ScreenShots/Donor.png)
+![Education Section Screenshot](ScreenShots/ChatBot.png)
+![Education Section Screenshot](ScreenShots/Blood bank.png)
